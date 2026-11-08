@@ -1,3 +1,3 @@
-# Telangana Blank Forms
+# Telangana Blank Forms Vault
 
-This folder contains blank government forms for Telangana.
+Official blank application and utility forms for Telangana.

@@ -1,3 +1,3 @@
-# Bihar Blank Forms
+# Bihar Blank Forms Vault
 
-This folder contains blank government forms for Bihar.
+Official blank application and utility forms for Bihar.

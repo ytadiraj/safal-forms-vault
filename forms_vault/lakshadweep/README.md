@@ -1,3 +1,3 @@
-# Lakshadweep Blank Forms
+# Lakshadweep Blank Forms Vault
 
-This folder contains blank government forms for Lakshadweep.
+Official blank application and utility forms for Lakshadweep.

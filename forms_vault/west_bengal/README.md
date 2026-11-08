@@ -1,3 +1,3 @@
-# West Bengal Blank Forms
+# West Bengal Blank Forms Vault
 
-This folder contains blank government forms for West Bengal.
+Official blank application and utility forms for West Bengal.

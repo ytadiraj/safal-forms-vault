@@ -1,3 +1,3 @@
-# Karnataka Blank Forms
+# Karnataka Blank Forms Vault
 
-This folder contains blank government forms for Karnataka.
+Official blank application and utility forms for Karnataka.

@@ -1,3 +1,3 @@
-# Madhya Pradesh Blank Forms
+# Madhya Pradesh Blank Forms Vault
 
-This folder contains blank government forms for Madhya Pradesh.
+Official blank application and utility forms for Madhya Pradesh.

@@ -1,3 +1,3 @@
-# Rajasthan Blank Forms
+# Rajasthan Blank Forms Vault
 
-This folder contains blank government forms for Rajasthan.
+Official blank application and utility forms for Rajasthan.

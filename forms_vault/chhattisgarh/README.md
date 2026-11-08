@@ -1,3 +1,3 @@
-# Chhattisgarh Blank Forms
+# Chhattisgarh Blank Forms Vault
 
-This folder contains blank government forms for Chhattisgarh.
+Official blank application and utility forms for Chhattisgarh.

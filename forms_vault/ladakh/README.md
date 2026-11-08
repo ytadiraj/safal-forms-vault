@@ -1,3 +1,3 @@
-# Ladakh Blank Forms
+# Ladakh Blank Forms Vault
 
-This folder contains blank government forms for Ladakh.
+Official blank application and utility forms for Ladakh.

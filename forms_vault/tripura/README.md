@@ -1,3 +1,3 @@
-# Tripura Blank Forms
+# Tripura Blank Forms Vault
 
-This folder contains blank government forms for Tripura.
+Official blank application and utility forms for Tripura.

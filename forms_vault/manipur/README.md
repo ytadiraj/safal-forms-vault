@@ -1,3 +1,3 @@
-# Manipur Blank Forms
+# Manipur Blank Forms Vault
 
-This folder contains blank government forms for Manipur.
+Official blank application and utility forms for Manipur.

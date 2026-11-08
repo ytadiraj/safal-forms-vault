@@ -1,3 +1,3 @@
-# Maharashtra Blank Forms
+# Maharashtra Blank Forms Vault
 
-This folder contains blank government forms for Maharashtra.
+Official blank application and utility forms for Maharashtra.

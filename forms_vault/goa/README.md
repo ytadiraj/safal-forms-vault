@@ -1,3 +1,3 @@
-# Goa Blank Forms
+# Goa Blank Forms Vault
 
-This folder contains blank government forms for Goa.
+Official blank application and utility forms for Goa.

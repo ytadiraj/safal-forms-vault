@@ -1,3 +1,3 @@
-# Himachal Pradesh Blank Forms
+# Himachal Pradesh Blank Forms Vault
 
-This folder contains blank government forms for Himachal Pradesh.
+Official blank application and utility forms for Himachal Pradesh.

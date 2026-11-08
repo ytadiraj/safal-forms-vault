@@ -1,3 +1,3 @@
-# Meghalaya Blank Forms
+# Meghalaya Blank Forms Vault
 
-This folder contains blank government forms for Meghalaya.
+Official blank application and utility forms for Meghalaya.

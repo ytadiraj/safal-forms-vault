@@ -1,3 +1,3 @@
-# Sikkim Blank Forms
+# Sikkim Blank Forms Vault
 
-This folder contains blank government forms for Sikkim.
+Official blank application and utility forms for Sikkim.

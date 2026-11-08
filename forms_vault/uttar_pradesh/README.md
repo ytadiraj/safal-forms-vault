@@ -1,3 +1,3 @@
-# Uttar Pradesh Blank Forms
+# Uttar Pradesh Blank Forms Vault
 
-This folder contains blank government forms for Uttar Pradesh.
+Official blank application and utility forms for Uttar Pradesh.

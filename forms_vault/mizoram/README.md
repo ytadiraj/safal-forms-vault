@@ -1,3 +1,3 @@
-# Mizoram Blank Forms
+# Mizoram Blank Forms Vault
 
-This folder contains blank government forms for Mizoram.
+Official blank application and utility forms for Mizoram.

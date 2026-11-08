@@ -1,3 +1,3 @@
-# Delhi (NCT) Blank Forms
+# Delhi Blank Forms Vault
 
-This folder contains blank government forms for Delhi (NCT).
+Official blank application and utility forms for Delhi.

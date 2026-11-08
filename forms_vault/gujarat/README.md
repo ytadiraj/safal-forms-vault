@@ -1,3 +1,3 @@
-# Gujarat Blank Forms
+# Gujarat Blank Forms Vault
 
-This folder contains blank government forms for Gujarat.
+Official blank application and utility forms for Gujarat.

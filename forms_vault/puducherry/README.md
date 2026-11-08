@@ -1,3 +1,3 @@
-# Puducherry Blank Forms
+# Puducherry Blank Forms Vault
 
-This folder contains blank government forms for Puducherry.
+Official blank application and utility forms for Puducherry.

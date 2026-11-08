@@ -1,3 +1,3 @@
-# Haryana Blank Forms
+# Haryana Blank Forms Vault
 
-This folder contains blank government forms for Haryana.
+Official blank application and utility forms for Haryana.

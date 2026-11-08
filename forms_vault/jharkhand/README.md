@@ -1,3 +1,3 @@
-# Jharkhand Blank Forms
+# Jharkhand Blank Forms Vault
 
-This folder contains blank government forms for Jharkhand.
+Official blank application and utility forms for Jharkhand.
